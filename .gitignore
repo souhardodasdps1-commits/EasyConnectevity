@@ -1,0 +1,25 @@
+# Arduino IDE files
+*.o
+*.elf
+*.bin
+*.hex
+*.eep
+*.dmp
+
+# Arduino temporary folders
+*.tmp
+*.log
+*.core
+*.svd
+
+# VSCode / other editors
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python files (for Pi wrapper)
+__pycache__/
+*.pyc
