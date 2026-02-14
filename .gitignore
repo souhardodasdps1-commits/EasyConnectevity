@@ -19,7 +19,3 @@
 # OS files
 .DS_Store
 Thumbs.db
-
-# Python files (for Pi wrapper)
-__pycache__/
-*.pyc
